@@ -1,7 +1,6 @@
-# Documentation sur comment installer Red Hat ServiceMesh
+# What is RedHat OpenShift and how to install it
 
-Voici un tutorial sur comment faire l'installation de [**Red Hat OpenShift Service Mesh**](https://www.redhat.com/en/technologies/cloud-computing/openshift/what-is-openshift-service-mesh#:~:text=Red%20Hat%C2%AE%20OpenShift%C2%AE,microservices%20in%20your%20service%20mesh.)
-
+Voici un tutorial sur qu-est-ce que [**Red Hat OpenShift Service Mesh**](https://www.redhat.com/en/technologies/cloud-computing/openshift/what-is-openshift-service-mesh#:~:text=Red%20Hat%C2%AE%20OpenShift%C2%AE,microservices%20in%20your%20service%20mesh.) ainsi que comment faire son l'installation.
 
 ## Services en réseautique simple pour les applications Kubernetes d'entreprise.
 [Red Hat OpenShift Service Mesh](https://www.redhat.com/en/technologies/jboss-middleware/codeready-workspaces) founit un outil unique pour connecter, gérer et surveiller les applications [microservice](https://www.redhat.com/fr/topics/microservices/what-are-microservices). Red Hat OpenShift Service Mesh offre une excellent niveau de contrôle et visibilité sur le comportement des différentes microservices en réseau qui y sont déployé dans la mesh. 
